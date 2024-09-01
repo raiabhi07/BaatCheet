@@ -31,14 +31,17 @@ Follow these instructions to get a copy of the project up and running on your lo
    git clone https://github.com/yourusername/BaatCheet.git
    
 2. Navigate to the project directory:
+   ```bash
    cd BaatCheet
+   
 3.Install the dependencies:
    npm install
-4.Set up the environment variables (if any):
-   Create a .env file in the root directory with the necessary variables.
-5.Start the development server:
-   npm start
 
+4.Set up the environment variables (if any):  
+   Create a .env file in the root directory with the necessary variables.  
+   
+5.Start the development server:  
+   npm start  
 
 Contact
 
