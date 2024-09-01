@@ -1,36 +1,46 @@
-# Baat-Cheet
+# BaatCheet
 
-Baat-Cheet is a Full Stack Chatting App.
-Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
+BaatCheet is a real-time chat application that allows users to connect through both one-on-one conversations and group chats. The app is designed for seamless communication with friends and family, providing an intuitive and user-friendly interface.
 
-## Tech Stack
+## Features
 
-**Client:** React JS
+- **User Registration & Profile**:
+  - Create an account using your email ID and set a secure password.
+  - Upload a profile picture to personalize your account.
+  
+- **Real-Time Messaging**:
+  - Engage in one-on-one conversations with friends in real-time.
+  - Join group chats to stay connected with multiple people simultaneously.
+  - Both ends can send and receive messages simultaneously, ensuring a smooth and uninterrupted conversation flow.
 
-**Server:** Node JS, Express JS
+## Technology Stack
 
-**Database:** Mongo DB
+- **Frontend**: HTML, CSS, JavaScript, ReactJS
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **Real-Time Communication**: Socket.io
 
-## Demo
+## Getting Started
 
-# Features
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
-### Authenticaton
+### Installation
 
-### Real Time Chatting with Typing indicators
+1. **Clone the repository**:
+   git clone https://github.com/yourusername/BaatCheet.git
+2. Navigate to the project directory:
+   cd BaatCheet
+3.Install the dependencies:
+   npm install
+4.Set up the environment variables (if any):
+   Create a .env file in the root directory with the necessary variables.
+5.Start the development server:
+   npm start
 
-### One to One chat
 
-### Search Users
+Contact
 
-### Create Group Chats
+For any questions or suggestions, please reach out to:
 
-### Notifications
-
-### Add or Remove users from group
-
-### View Other user Profile
-
-## Made By
-
-Ashutosh Sharma
+    Name: Abhishek Rai
+    Email: raiabhi2176@gmail.com
